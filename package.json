@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "just another RPG module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mbogaert/jest-another-RPG.git"
+  },
+  "author": "Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mbogaert/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Mbogaert/jest-another-RPG#readme"
+}
